@@ -20,7 +20,7 @@ Binaries
 
 # Build artifacts
 astcenc
-build*
+build/
 
 # General build artifacts
 Test/DocOut
